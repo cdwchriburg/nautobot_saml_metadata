@@ -3,7 +3,7 @@ name = "nautobot-saml-metadata"
 version = "0.1.0"
 description = "Nautobot plugin to generate SAML metadata"
 authors = ["Chris Burger"]
-packates = [
+packages = [
     { include = "saml_metadata" }
 ]
 
