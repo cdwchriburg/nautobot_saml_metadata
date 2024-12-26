@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nautobot-saml-metadata"
-version = "0.1.0"
+version = "0.1.1"
 description = "Nautobot plugin to generate SAML metadata"
 authors = ["Chris Burger"]
 packages = [
@@ -8,7 +8,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3"
 
 [tool.poetry.dev-dependencies]
 
